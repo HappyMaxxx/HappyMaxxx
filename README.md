@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student from Ukraine 🇺🇦</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a projects related to swarm intelligence and building a personalized online dictionary website.  <br>👯 I’m looking to collaborate on Python-based projects, especially in machine learning, web development, or scientific research.  <br>🤝 I’m looking for help with optimizing algorithms for swarm robotics or improving UI/UX design for my web projects.  <br>🌱 I’m currently learning advanced object-oriented programming techniques and improving my knowledge of full-stack development.  <br>💬 Ask me about Python, artificial intelligence, and implementing creative solutions in code.  <br>⚡ Fun fact: I enjoy combining technology with creativity, like simulating planetary systems or creating unique interactive presentations. 
+🔭 I’m currently working on projects related to swarm intelligence, building simulations and Django projects.  <br>👯 I’m looking to collaborate on Python-based projects, especially in machine learning, web development, or scientific research.  <br>🤝 I’m looking for help with optimizing algorithms for swarm robotics or improving UI/UX design for my web projects.  <br>🌱 I’m currently learning advanced object-oriented programming techniques and improving my knowledge of full-stack development.  <br>💬 Ask me about Python, artificial intelligence, and implementing creative solutions in code.  <br>⚡ Fun fact: I enjoy developing complex simulations to model real-world phenomena and experimenting with genetic algorithms to solve optimization problems. 
 
 
 ## 🌐 Socials:
