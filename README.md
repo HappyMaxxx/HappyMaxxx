@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Max
+<h1 align="center">Hi there, I'm Max <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" /></h1>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1> -->
 <h3 align="center">Computer science student from Ukraine 🇺🇦</h3>
 
