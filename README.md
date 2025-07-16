@@ -38,5 +38,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HappyMaxxx&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMaxxx&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=HappyMaxxx&icon=2&color=12)](https://visitcount.itsvg.in)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
