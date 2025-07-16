@@ -37,13 +37,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=HappyMaxxx&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HappyMaxxx&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMaxxx&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HappyMaxxx/HappyMaxxx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
