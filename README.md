@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Max 👋</h1>
 <h3 align="center">Python Backend Developer & Computer Science Student from Ukraine 🇺🇦</h3>
 
----
-
 ## 💫 About Me
 
 - 🔭 Currently working on **FastAPI-based REST APIs**, **Telegram bots**, and **web apps**
@@ -11,15 +9,10 @@
 - 💬 Ask me about **Python, Django, FastAPI, aiogram, databases**
 - ⚡ Fun fact: I built a matchmaking service, a charity donation platform with Monobank webhooks, and a FSM-based Telegram "Trivia Murder Party" bot — all in Python
 
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmzxgh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-patyk-379308339/?locale=en)
- 
-
----
 
 ## 💻 Tech Stack
 
@@ -63,8 +56,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
----
 
 ## 📊 GitHub Stats
 
